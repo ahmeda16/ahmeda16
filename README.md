@@ -19,10 +19,10 @@
       <br/>
       <a href="https://www.linkedin.com/in/syed-abraham-ahmed/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="abraham" height="30"/></a>
       <a href="mailto:syed.abraham14@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="abraham" height="30"/></a>
       <a href="https://instagram.com/abragraphs" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="abraham" height="30"/></a>

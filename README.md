@@ -41,14 +41,14 @@
   <summary><h3>languages</h3></summary>
             <p align="center">
         <a href="https://github.com/ahmeda16/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeda16&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeda16&langs_count=6&theme=dark&layout=compact&hide_border=true"
           alt="ahmeda16 :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/ahmeda16/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmeda16&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmeda16&theme=dark&layout=compact&hide_border=true"
           alt="ahmeda16 :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmeda16&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmeda16&theme=dark&layout=compact&hide_border=true"
           alt="ahmeda16 :: Top Langs by commit" />
           </a>
         </p>
@@ -57,8 +57,7 @@
   <summary><h3>statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/ahmeda16/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ahmeda16&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeda16&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeda16&theme=dark&hide_border=true" />
           </a>
        </p>
      <br>
